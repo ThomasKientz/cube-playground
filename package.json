@@ -1,0 +1,12 @@
+{
+  "name": "clickhouse-dashboard",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "cubejs-server"
+  },
+  "template": "docker",
+  "devDependencies": {
+    "@cubejs-backend/server": "^0.29.52"
+  }
+}
